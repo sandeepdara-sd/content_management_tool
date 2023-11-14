@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Express.js
+build/
+.env
+
+# React.js
+/client/build/
+/client/node_modules/
+
+# Visual Studio Code
+.vscode/
